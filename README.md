@@ -25,7 +25,7 @@ This script allows for saving and restoring player positions in a FiveM server. 
 
 ## 🔧 Dependencies
 
-- **MySQL-Async**: Ensure you have the MySQL-Async library installed and configured in your FiveM server. [MySQL-Async GitHub Repository](https://github.com/brouznouf/fivem-mysql-async)
+- **MySQL-Async**: Ensure you have the MySQL-Async library installed. [MySQL-Async GitHub Repository](https://github.com/brouznouf/fivem-mysql-async)
 - **FiveM**: This script is designed to run on a FiveM server. [FiveM Official Website](https://fivem.net/)
 
 ## 📦 Database Installation
