@@ -1,4 +1,4 @@
-# ![FiveM](https://fivem.net/) FiveM Player Position
+# 🎮 FiveM Player Position
 
 ![FiveM](https://img.shields.io/badge/FiveM-Framework-blue)
 ![MySQL](https://img.shields.io/badge/MySQL-Database-orange)
