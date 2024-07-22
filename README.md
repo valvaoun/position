@@ -32,4 +32,4 @@
 
 # 🔧 Dependencies
 
-* MySQL-Async: Ensure you have the MySQL-Async library installed and configured in your FiveM server. [MySQL-Async GitHub Repository](https://github.com/brouznouf/fivem-mysql-async.git)
+* Ensure you have the MySQL-Async library installed and configured in your FiveM server. [MySQL-Async GitHub Repository](https://github.com/brouznouf/fivem-mysql-async.git)
