@@ -16,12 +16,6 @@
 
 # 🚀 Usage
 
-
-
-
-
-
-
 1. Place the server.lua and client.lua files in your FiveM resource.
 
 2. Ensure your server is configured to use a MySQL database.
@@ -35,3 +29,7 @@
  * MySQL-Async: This script uses the MySQL-Async library for database operations.
 
 * Database: Create a player_positions table with columns identifier, x, y, z to store player positions.
+
+# 🔧 Dependencies
+
+* MySQL-Async: Ensure you have the MySQL-Async library installed and configured in your FiveM server. [MySQL-Async GitHub Repository](https://github.com/brouznouf/fivem-mysql-async.git)
